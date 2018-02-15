@@ -5,6 +5,13 @@ The format is based on Keep a Changelog and this project adheres to Semantic Ver
 
 Group Members: [CAPTAIN] Calvin Lai [MATE #1] Jeremy Lee [MATE #2] Michaela Yoon
 
+## 0.0.2 - 2018-02-15
+
+### Modified by Jeremy
+-- MY_Controller: render, team name added to page title
+-- views/homepage.php: alert div
+-- controllers/Welcome.php: table and details display
+
 ## 0.0.1 - 2018-02-15
 
 ### Added By Calvin
