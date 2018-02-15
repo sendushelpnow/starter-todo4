@@ -22,12 +22,13 @@ class Views extends Application
             if ($task->status != 2)
                 $undone[] = $task;
         }
+        usort($undone, array("Views", "orderByPriority"));
+
         foreach ($undone as $task)
           $task->priority = $this->app->priority($task->priority);
 
         foreach ($undone as $task)
           $converted[] = (array) $task;
-        usort($undone, "orderByPriority");
 
         // and then pass them on
         $parms = ['display_tasks' => $converted];

@@ -20,7 +20,7 @@ class Tasks extends CSV_Model {
           $task->group = $this->app->group($task->group);
 
       // order them by category
-      usort($undone, "orderByCategory");
+      usort($undone, array("Tasks", "orderByCategory"));
 
       // convert the array of task objects into an array of associative objects
       foreach ($undone as $task)
