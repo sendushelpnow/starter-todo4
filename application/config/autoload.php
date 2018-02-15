@@ -29,7 +29,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | 7. Models
 |
 */
-$autoload['model'] = array('app', 'tasks');
 
 /*
 | -------------------------------------------------------------------
@@ -134,3 +133,4 @@ $autoload['language'] = array();
 |	$autoload['model'] = array('first_model' => 'first');
 */
 $autoload['model'] = array('app');
+$autoload['model'] = array('app', 'tasks');
