@@ -5,12 +5,22 @@ The format is based on Keep a Changelog and this project adheres to Semantic Ver
 
 Group Members: [CAPTAIN] Calvin Lai [MATE #1] Jeremy Lee [MATE #2] Michaela Yoon
 
+## *Version 0.0.4*
+
+Release Date: February 15, 2018
+
+## 0.0.4 - 2018-02-15
+
+### Added by Jeremy
+-- controllers/Mtce.php
+-- views/itemlist.php
+-- views/oneitem.php
+
 ## 0.0.3 - 2018-02-15
 
 ### Modified by Calvin
 -- Views.php modified to display two separate lists organized by priority and category
 -- Tasks.php modified to add sorting and displaying functions
-
 
 ## 0.0.2 - 2018-02-15
 
