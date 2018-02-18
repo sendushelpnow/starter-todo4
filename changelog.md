@@ -9,6 +9,17 @@ Group Members: [CAPTAIN] Calvin Lai [MATE #1] Jeremy Lee [MATE #2] Michaela Yoon
 
 Release Date: February 15, 2018
 
+## 0.0.5 - 2018-02-17
+
+### Added by Michaela
+-- controllers/Helpme.php
+-- libraries/Parsedown.php
+-- data/jobs.md
+
+### Modified by Michaela
+-- autoload.php to include parsedown in libraries
+-- config.php modified to link to Helpme
+
 ## 0.0.4 - 2018-02-15
 
 ### Added by Jeremy
