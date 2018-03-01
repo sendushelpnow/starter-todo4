@@ -9,6 +9,15 @@ Group Members: [CAPTAIN] Calvin Lai [MATE #1] Jeremy Lee [MATE #2] Michaela Yoon
 
 Release Date: February 15, 2018
 
+## 0.1.0 - 2018-03-01
+
+## Added by Calvin
+-- views/itemnav.php adds a nav bar to the maintainence page
+
+### Modified by Calvin
+-- views/itemlist.php added pagination to navbar
+-- Mtch.php added functions to display page by page as well as function to the navbar in itemnav.php
+
 ## 0.0.5 - 2018-02-17
 
 ### Added by Michaela
