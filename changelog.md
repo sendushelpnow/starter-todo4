@@ -5,9 +5,18 @@ The format is based on Keep a Changelog and this project adheres to Semantic Ver
 
 Group Members: [CAPTAIN] Calvin Lai [MATE #1] Jeremy Lee [MATE #2] Michaela Yoon
 
-## *Version 0.0.4*
+## *Version 0.0.7*
 
 Release Date: February 15, 2018
+
+## 0.0.7 - 2018-03-01
+
+### Added by Jeremy
+-- controllers/Roles.php, actor(...)
+
+### Modified by Jeremy
+-- application/config/constants.php: user roles
+-- views/_menubar.php: dropdown for the user roles
 
 ## 0.0.5 - 2018-02-17
 
