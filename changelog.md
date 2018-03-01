@@ -5,9 +5,18 @@ The format is based on Keep a Changelog and this project adheres to Semantic Ver
 
 Group Members: [CAPTAIN] Calvin Lai [MATE #1] Jeremy Lee [MATE #2] Michaela Yoon
 
-## *Version 0.1.1*
+## *Version 0.1.3*
 
 Release Date: February 15, 2018
+
+## 0.1.3 - 2018-03-01
+
+### Added by Jeremy
+-- application/views/itemadd.php
+-- application/views/oneitemx.php
+
+### Modified by Jeremy
+-- application/controllers/Mtce.php: page(...), show_page(...)
 
 ## 0.1.2 - 2018-03-01
 
