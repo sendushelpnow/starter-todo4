@@ -9,6 +9,13 @@ Group Members: [CAPTAIN] Calvin Lai [MATE #1] Jeremy Lee [MATE #2] Michaela Yoon
 
 Release Date: February 15, 2018
 
+## 0.1.2 - 2018-03-01
+
+### Modified by Calvin
+-- by_priority.php modified to be a form with checkboxes and submit button 
+-- by_category.php modified to be a form with checkboxes and submit button
+-- Views.php added complete status and handler for completed tasks, user role validation added
+
 ## 0.1.1 - 2018-03-01
 
 ### Added by Jeremy
