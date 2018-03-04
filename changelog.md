@@ -5,9 +5,15 @@ The format is based on Keep a Changelog and this project adheres to Semantic Ver
 
 Group Members: [CAPTAIN] Calvin Lai [MATE #1] Jeremy Lee [MATE #2] Michaela Yoon
 
-## *Version 0.1.3*
+## *Version 0.1.5*
 
-Release Date: February 15, 2018
+Release Date: March 4, 2018
+
+## 0.1.5 - 2018-03-04
+
+### Modified by Michaela
+-- application/controllers/Mtce.php fixed showit function to include size, group, and status
+-- views/itemedit.php included fields for size, group, and status
 
 ## 0.1.4 - 2018-03-03
 
