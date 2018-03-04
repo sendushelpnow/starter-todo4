@@ -9,6 +9,18 @@ Group Members: [CAPTAIN] Calvin Lai [MATE #1] Jeremy Lee [MATE #2] Michaela Yoon
 
 Release Date: February 15, 2018
 
+## 0.1.4 - 2018-03-03
+
+### Added by Michaela
+-- views/itemedit.php
+
+### Modified by Michaela
+-- models/App.php to fix bug. Properties are set so "undefined index" PHP error is not triggered.
+-- models/Tasks.php added rules to validate tasks.
+-- application/controllers/Mtce.php added functions for add, edit, showit, submit, alert, cancel, delete
+-- views/itemedit.php buttons for canceling and deleting
+
+
 ## 0.1.3 - 2018-03-01
 
 ### Added by Jeremy
