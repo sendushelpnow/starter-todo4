@@ -5,9 +5,30 @@ The format is based on Keep a Changelog and this project adheres to Semantic Ver
 
 Group Members: [CAPTAIN] Calvin Lai [MATE #1] Jeremy Lee [MATE #2] Michaela Yoon
 
-## *Version 0.1.5*
+## *Version 0.1.8*
 
-Release Date: March 4, 2018
+Release Date: March 11, 2018
+
+## 0.1.8 - 2018-03-11
+
+### Modified by Jeremy
+-- TaskListTest: added setUp, testMoreUncompletedThanCompleted
+
+## 0.1.7 - 2018-03-11
+
+### Added by Michaela
+--
+
+### Modified by Michaela
+--
+
+## 0.1.6 - 2018-03-10
+
+### Added by Calvin
+--
+
+### Modified by Calvin
+--
 
 ## 0.1.5 - 2018-03-04
 
@@ -25,7 +46,6 @@ Release Date: March 4, 2018
 -- models/Tasks.php added rules to validate tasks.
 -- application/controllers/Mtce.php added functions for add, edit, showit, submit, alert, cancel, delete
 -- views/itemedit.php buttons for canceling and deleting
-
 
 ## 0.1.3 - 2018-03-01
 
@@ -64,7 +84,6 @@ Release Date: March 4, 2018
 ### Modified by Calvin
 -- views/itemlist.php added pagination to navbar
 -- Mtch.php added functions to display page by page as well as function to the navbar in itemnav.php
->>>>>>> 00191ffb164e54a5822c0de3acd10dd6e733b929
 
 ## 0.0.5 - 2018-02-17
 

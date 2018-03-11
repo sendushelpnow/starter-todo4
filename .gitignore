@@ -17,5 +17,7 @@ application/logs/*
 /vendor/
 /nbproject/private/
 /nbproject/
+/composer.json
+/composer.lock
 
 /tmp/*
