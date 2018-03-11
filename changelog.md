@@ -9,6 +9,13 @@ Group Members: [CAPTAIN] Calvin Lai [MATE #1] Jeremy Lee [MATE #2] Michaela Yoon
 
 Release Date: March 4, 2018
 
+## 0.1.6 - 2018-03-11
+
+### Modified by Michaela
+-- Task.php to include setters for entity model
+
+
+
 ## 0.1.5 - 2018-03-04
 
 ### Modified by Michaela
