@@ -1,4 +1,4 @@
-<?php
+w<?php
 
 class Task extends Entity {
     protected $task;
@@ -12,7 +12,7 @@ public function setTask($value) {
 if (empty($value))
     throw new Exception('A Name cannot be empty');
 if (strlen($value) > 30)
-    throw new Exception('A Name cannot be longer than 30 characters');
+    throw new Exception('A task cannot be longer than 30 characters');
 $this->task = $value;
 return $this;
 }
