@@ -1,4 +1,4 @@
-w<?php
+<?php
 
 class Task extends Entity {
     protected $task;
