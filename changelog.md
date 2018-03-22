@@ -5,9 +5,14 @@ The format is based on Keep a Changelog and this project adheres to Semantic Ver
 
 Group Members: [CAPTAIN] Calvin Lai [MATE #1] Jeremy Lee [MATE #2] Michaela Yoon
 
-## *Version 0.1.5*
+## *Version 0.2.0*
 
 Release Date: March 4, 2018
+
+## 0.2.0 - 2018-03-21
+
+### Added by Calvin
+-- tasks.xml added
 
 ## 0.1.6 - 2018-03-11
 
