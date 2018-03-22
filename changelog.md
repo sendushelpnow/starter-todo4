@@ -5,16 +5,26 @@ The format is based on Keep a Changelog and this project adheres to Semantic Ver
 
 Group Members: [CAPTAIN] Calvin Lai [MATE #1] Jeremy Lee [MATE #2] Michaela Yoon
 
-## *Version 0.1.5*
+## *Version 0.2.0*
 
-Release Date: March 4, 2018
+Release Date: March 22
+
+## 0.2.1 - 2018-03-22
+
+### Modified by Jeremy
+-- task.xml: invalid structure fixed
+-- Tasks.php: xml file call
+-- XML_Model.php: Load function modified
+
+## 0.2.0 - 2018-03-21
+
+### Added by Calvin
+-- tasks.xml added
 
 ## 0.1.6 - 2018-03-11
 
 ### Modified by Michaela
 -- Task.php to include setters for entity model
-
-
 
 ## 0.1.5 - 2018-03-04
 
@@ -71,7 +81,7 @@ Release Date: March 4, 2018
 ### Modified by Calvin
 -- views/itemlist.php added pagination to navbar
 -- Mtch.php added functions to display page by page as well as function to the navbar in itemnav.php
->>>>>>> 00191ffb164e54a5822c0de3acd10dd6e733b929
+
 
 ## 0.0.5 - 2018-02-17
 
