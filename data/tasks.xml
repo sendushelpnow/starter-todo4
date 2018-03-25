@@ -26,7 +26,7 @@
         <size>1</size>
         <group>4</group>
         <deadline></deadline>
-        <status></status>
+        <status>1</status>
         <flag></flag>
         <task>Paint the fence</task>
     </task>    
@@ -36,7 +36,7 @@
         <size>2</size>
         <group>4</group>
         <deadline></deadline>
-        <status></status>
+        <status>1</status>
         <flag></flag>
         <task>Intramural hockey game</task>
     </task>    
@@ -46,7 +46,7 @@
         <size>3</size>
         <group>4</group>
         <deadline></deadline>
-        <status></status>
+        <status>2</status>
         <flag></flag>
         <task>Canucks game</task>
     </task>    
@@ -56,7 +56,7 @@
         <size>1</size>
         <group>4</group>
         <deadline></deadline>
-        <status></status>
+        <status>2</status>
         <flag></flag>
         <task>Hit the gym</task>
     </task>
