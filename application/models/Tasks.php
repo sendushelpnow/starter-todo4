@@ -19,6 +19,7 @@ class Tasks extends XML_Model {
 				$record->deadline = (string) $task->deadline;
 				$record->status = (int) $task->status;
 				$record->flag = (int) $task->flag;
+                                $record->key = (int) $task->key;
 
 				$this->_data[$record->id] = $record;
 			}
