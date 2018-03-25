@@ -7,7 +7,14 @@ Group Members: [CAPTAIN] Calvin Lai [MATE #1] Jeremy Lee [MATE #2] Michaela Yoon
 
 ## *Version 0.2.0*
 
-Release Date: March 22
+Release Date: March 25
+
+## 0.2.2 - 2018-03-25
+
+### Modified by Michaela
+-- task.xml: added in status to empty elements
+-- Tasks.php: Added override load and store function
+-- XML_Model.php Removed overridden part of load function
 
 ## 0.2.1 - 2018-03-22
 
